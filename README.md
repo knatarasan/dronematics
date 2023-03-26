@@ -6,6 +6,8 @@
 
 ### Tasks 
 - [ ] Build Drone data gen simulator
+  - [Take Data open data set from this link](https://www.kaggle.com/datasets/kmader/drone-videos?resource=download&select=DJI_0501.SRT)  
+  - [To analyze above dataset](https://djitelemetryoverlay.com/srt-viewer/)
 - [ ] Kafka
   - [ ] Configure Kafka topic
 - [ ] PySpark
